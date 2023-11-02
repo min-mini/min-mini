@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min-mini)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bki654)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bki654)](https://velog.io/@bki654)
 
 </div>
 
